@@ -1,0 +1,55 @@
+/* Themes */
+
+// Omar
+$primary: #ffc555;
+$background: #204267;
+
+// green-white
+// $primary: #FAFAFA;
+// $background: #43A047; 
+
+// grey-white
+// $primary: #FAFAFA;
+// $background: #485564;
+
+// indigo-white
+// $primary: #FAFAFA;
+// $background: #c9127a;
+
+// red-white
+// $primary: #FAFAFA;
+// $background: #AF3D4E;
+
+// white-blue
+// $primary: #0277BD;
+// $background: #FAFAFA;
+
+// white-grey
+// $primary: #4B5658;
+// $background: #EDEDED;
+
+// white-indigo
+// $primary: #303F9F;
+// $background: #E8EAF6;
+
+// white-red
+// $primary: #AF3D4E;
+// $background: #EDEDED; 
+
+// yellow-black
+// $primary: #1E1E1E;
+// $background: #FFEB3B; 
+
+
+main {
+	background: $background;
+    color: $primary;
+}
+
+.icons-social a {
+	color: $primary;
+}
+
+a {
+	color: $primary;
+}
